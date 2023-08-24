@@ -1,4 +1,3 @@
-# Toxic_Comment_Classification
 # Toxic Comment Classification
 This project aims to build a machine learning model that can identify and classify toxic comments on online platforms. A toxic comment is defined as a rude, disrespectful, or unreasonable comment that is likely to make someone leave a discussion or give up on sharing their perspective. Toxic comments can have various subtypes, such as severe toxic, obscene, threat, insult, and identity hate.
 # Dataset
